@@ -1,0 +1,21 @@
+<!DOCTYP html>
+<htnl lan="pt-BR>
+<head>style
+<meta charset="UTF-8">
+<met  name="viewport"
+content ="width=device-cuidth, initial-scale=1,0">
+
+<title> </title>
+<style>
+body{
+font-family:Arial,an-Seril;
+margin 0;
+}
+header}
+ background-color:#4CAF50
+  color;black;
+  padding:20px;
+  text-alingn:center;
+  }
+  nav
+   
